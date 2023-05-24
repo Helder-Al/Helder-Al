@@ -14,7 +14,8 @@
 [![Instagram](https://img.shields.io/twitter/follow/_crowkin?color=E4405F&logo=instagram&style=for-the-badge)](https://www.instagram.com/_crowkin/?igshid=ZDdkNTZiNTM%3D)
 
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helder-al&show_icons=true&theme=dracula&custom_title=Contribuições_de_Helder-Al)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helder-Al&hide_progress=true&theme=dracula&langs_count=10&custom_title=Linguagens_mais_utilizadas)
-
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Helder-Al&show_icons=true&theme=dracula&locale=pt-br&bg_color=00000000&custom_title=Status+do+perfil"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helder-Al&hide_progress=true&langs_count=10&layout=compact&bg_color=00000000&theme=dracula&custom_title=Top+10+linguagens"/>
+ </div>
