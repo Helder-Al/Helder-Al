@@ -17,5 +17,4 @@
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Helder-Al&show_icons=true&theme=dracula&locale=pt-br&bg_color=00000000&custom_title=Status+do+perfil"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helder-Al&hide_progress=true&langs_count=10&layout=compact&bg_color=00000000&theme=dracula&custom_title=Top+10+linguagens"/>
  </div>
