@@ -1,6 +1,5 @@
 
-### Bem vindo a minnha homepage, meu nome é Helder. Dê uma olhada em meus projetos.
-
+### Bem vindo
 #
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://www.pixelstalk.net/wp-content/uploads/images6/Ultrawide-Wallpaper-Desktop.png" width="100%">
